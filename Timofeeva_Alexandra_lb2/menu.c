@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include”min.h”
-#include”max.h”
-#include”sum.h”
-#include”diff.h”
+#include ”min.h”
+#include ”max.h”
+#include ”sum.h”
+#include ”diff.h”
 
 int main(){
     int arr[100],i,j,number;
